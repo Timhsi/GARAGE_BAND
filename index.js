@@ -53,6 +53,6 @@ function makeSound(key){
             
 
         default:
-            console.log(buttonInnerHtml);
+            console.log(key);
     }
 }
